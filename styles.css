@@ -1,0 +1,16 @@
+#logoinstagram{
+    text-align: right;
+    font-size: 3vh;
+}
+#Create-a-post{
+    text-align: right;
+}
+#Instagram{
+    font-size: 3vh;
+}
+.card-img {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+  }
+
